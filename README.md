@@ -1,3 +1,8 @@
+## Running the server
+
+```
+make run
+```
 
 ## Calling the endpoints
 ```
